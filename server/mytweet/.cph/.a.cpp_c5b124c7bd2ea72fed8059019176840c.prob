@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/akash/Dev/TwitterClone/server/mytweet/a.cpp","tests":[{"id":1655562765913,"input":"1\nabcbabd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/akash/Dev/TwitterClone/server/mytweet/a.cpp","group":"local","local":true}
